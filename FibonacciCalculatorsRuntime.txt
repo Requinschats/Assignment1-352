@@ -1,0 +1,70 @@
+BINARY: At input size 1the runtime was 0 milliseconds
+LINEAR: At input size 1the runtime was 0 milliseconds
+TAIL_R: At input size 1the runtime was 0 milliseconds
+
+BINARY: At input size 6the runtime was 0 milliseconds
+LINEAR: At input size 6the runtime was 0 milliseconds
+TAIL_R: At input size 6the runtime was 0 milliseconds
+
+BINARY: At input size 11the runtime was 0 milliseconds
+LINEAR: At input size 11the runtime was 0 milliseconds
+TAIL_R: At input size 11the runtime was 0 milliseconds
+
+BINARY: At input size 16the runtime was 0 milliseconds
+LINEAR: At input size 16the runtime was 0 milliseconds
+TAIL_R: At input size 16the runtime was 0 milliseconds
+
+BINARY: At input size 21the runtime was 1 milliseconds
+LINEAR: At input size 21the runtime was 0 milliseconds
+TAIL_R: At input size 21the runtime was 0 milliseconds
+
+BINARY: At input size 26the runtime was 1 milliseconds
+LINEAR: At input size 26the runtime was 0 milliseconds
+TAIL_R: At input size 26the runtime was 0 milliseconds
+
+BINARY: At input size 31the runtime was 5 milliseconds
+LINEAR: At input size 31the runtime was 0 milliseconds
+TAIL_R: At input size 31the runtime was 0 milliseconds
+
+BINARY: At input size 36the runtime was 60 milliseconds
+LINEAR: At input size 36the runtime was 0 milliseconds
+TAIL_R: At input size 36the runtime was 0 milliseconds
+
+BINARY: At input size 41the runtime was 663 milliseconds
+LINEAR: At input size 41the runtime was 0 milliseconds
+TAIL_R: At input size 41the runtime was 0 milliseconds
+
+BINARY: At input size 46the runtime was 7271 milliseconds
+LINEAR: At input size 46the runtime was 0 milliseconds
+TAIL_R: At input size 46the runtime was 0 milliseconds
+
+LINEAR: At input size 51the runtime was 0 milliseconds
+TAIL_R: At input size 51the runtime was 0 milliseconds
+
+LINEAR: At input size 56the runtime was 0 milliseconds
+TAIL_R: At input size 56the runtime was 0 milliseconds
+
+LINEAR: At input size 61the runtime was 0 milliseconds
+TAIL_R: At input size 61the runtime was 0 milliseconds
+
+LINEAR: At input size 66the runtime was 1 milliseconds
+TAIL_R: At input size 66the runtime was 0 milliseconds
+
+LINEAR: At input size 71the runtime was 0 milliseconds
+TAIL_R: At input size 71the runtime was 0 milliseconds
+
+LINEAR: At input size 76the runtime was 0 milliseconds
+TAIL_R: At input size 76the runtime was 0 milliseconds
+
+LINEAR: At input size 81the runtime was 0 milliseconds
+TAIL_R: At input size 81the runtime was 0 milliseconds
+
+LINEAR: At input size 86the runtime was 0 milliseconds
+TAIL_R: At input size 86the runtime was 0 milliseconds
+
+LINEAR: At input size 91the runtime was 0 milliseconds
+TAIL_R: At input size 91the runtime was 0 milliseconds
+
+LINEAR: At input size 96the runtime was 0 milliseconds
+TAIL_R: At input size 96the runtime was 0 milliseconds
+
